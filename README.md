@@ -1,1 +1,0 @@
-Interactive, Responsive Design Resume
