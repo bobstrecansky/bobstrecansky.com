@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Staff Engineer @Mailchimp</title>
+    <link>https://bobstrecansky.com/tags/</link>
+    <description>Recent content in Tags on Staff Engineer @Mailchimp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2020</copyright>
+    <lastBuildDate>Fri, 24 Apr 2020 01:47:23 +0000</lastBuildDate>
+    
+	<atom:link href="https://bobstrecansky.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>carrots - rice</title>
+      <link>https://bobstrecansky.com/tags/carrots-rice/</link>
+      <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/carrots-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sausage</title>
+      <link>https://bobstrecansky.com/tags/sausage/</link>
+      <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/sausage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cauliflower</title>
+      <link>https://bobstrecansky.com/tags/cauliflower/</link>
+      <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/cauliflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cured meat</title>
+      <link>https://bobstrecansky.com/tags/cured-meat/</link>
+      <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/cured-meat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pizza</title>
+      <link>https://bobstrecansky.com/tags/pizza/</link>
+      <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/pizza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jq</title>
+      <link>https://bobstrecansky.com/tags/jq/</link>
+      <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logging</title>
+      <link>https://bobstrecansky.com/tags/logging/</link>
+      <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/logging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://bobstrecansky.com/tags/nginx/</link>
+      <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
