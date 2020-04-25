@@ -52,14 +52,18 @@ enableEmoji     = true
 
   [[menu.main]]
     identifier = "food"
-    name       = "food"
+    name       = "🍲 food"
     url        = "/food"
 
   [[menu.main]]
     identifier = "tech"
-    name       = "tech"
+    name       = "👨‍💻 tech"
     url        = "/tech"
 
+  [[menu.main]]
+    identifier = "works"
+    name       = "👷 works"
+    url        = "/works"
 
   # Social icons
   [[params.social]]

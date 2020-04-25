@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Fri, 24 Apr 2020 01:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 04:31:48 +0000</lastBuildDate>
     
 	<atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Works</title>
+      <link>https://bobstrecansky.com/works/</link>
+      <pubDate>Sat, 25 Apr 2020 04:31:48 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/works/</guid>
+      <description>Publications Published Book (2020): Hands on High Performance With Go
+Linode Article: How to Deploy Microservices With Docker
+Conference Talks Akamai Edge Presentation #1 (2019): Mailchimp to the Edge
+Akamai Edge Presentation #2 (2019): When 7 Seconds Per Page isn&amp;rsquo;t Fast Enough
+Grafanacon Presentation (2019): Grafanacon 2019 RED Metrics Lightning Talk
+SRECon Lightning Karaoke Talk (2019): SRECON 2019 Lightning Karaoke</description>
+    </item>
+    
+    <item>
+      <title>Sous Vide Fillet with Sesame Asparagus and Roasted Thyme Potatoes</title>
+      <link>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</link>
+      <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
+      
+      <guid>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</guid>
+      <description>My wife likes steak. It&amp;rsquo;s been her favorite meal since she was little. I thought I should treat her to her favorite dinner on a Friday night (It&amp;rsquo;s been fun to cook a little bit more during our self-quarantine). I&amp;rsquo;ve been attempting to perfect my sous vide fillet, and I&amp;rsquo;m getting pretty proud of it. The secret ingredient to a fillet (in my wife&amp;rsquo;s eyes) is Dale&amp;rsquo;s Seasonsing, which is proclaimed on their website to be the &amp;ldquo;#1 Marinade in the Nation!</description>
+    </item>
     
     <item>
       <title>Spicy Chicken Sausage</title>
