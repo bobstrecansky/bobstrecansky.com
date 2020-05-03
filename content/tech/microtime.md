@@ -1,7 +1,7 @@
---
+---
 title: "Microtime"
 date: 2020-04-28T03:32:30Z
-draft: true
+draft: false
 ---
 
 I spent a lot of time tracking down a bug in some PHP microtime code today.  When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that.  It is also critical to remember that `microtime()` returns an int, and `microtime(true)` returns a float

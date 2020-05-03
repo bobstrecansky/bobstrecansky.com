@@ -6,9 +6,11 @@ draft: false
 
 ### Publications
 
+Guest Blog Post (2020): [SLIs, SLOs - What are Those](https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those)
+
 Published Book (2020): [Hands on High Performance With Go](https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D)
   
-Linode Article: [How to Deploy Microservices With Docker](https://www.linode.com/docs/applications/containers/deploying-microservices-with-docker/)
+Linode Article (2017): [How to Deploy Microservices With Docker](https://www.linode.com/docs/applications/containers/deploying-microservices-with-docker/)
 
 
   
