@@ -24,3 +24,6 @@ Grafanacon Presentation (2019): [Grafanacon 2019 RED Metrics Lightning Talk](pdf
 
 SRECon Lightning Karaoke Talk (2019): [SRECON 2019 Lightning Karaoke](https://youtu.be/bQ62qI9IPP8?t=3762)
 
+### Testimonials
+
+Akamai Customer Testimonial (2019): [Customer Testimonial](https://www.akamai.com/us/en/our-customers/customer-stories-mailchimp.jsp)
