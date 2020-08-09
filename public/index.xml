@@ -48,13 +48,13 @@ This blog post was fun to write, as I have been a consumer of alertmanager, but 
       <pubDate>Sat, 25 Apr 2020 04:31:48 +0000</pubDate>
       
       <guid>https://bobstrecansky.com/works/</guid>
-      <description>Publications Guest Blog Post (2020): SLIs, SLOs - What are Those
-Published Book (2020): Hands on High Performance With Go
-Linode Article (2017): How to Deploy Microservices With Docker
-Conference Talks Akamai Edge Presentation #1 (2019): Mailchimp to the Edge
+      <description>Conference Talks Akamai Edge Presentation #1 (2019): Mailchimp to the Edge
 Akamai Edge Presentation #2 (2019): When 7 Seconds Per Page isn&amp;rsquo;t Fast Enough
 Grafanacon Presentation (2019): Grafanacon 2019 RED Metrics Lightning Talk
-SRECon Lightning Karaoke Talk (2019): SRECON 2019 Lightning Karaoke</description>
+SRECon Lightning Karaoke Talk (2019): SRECON 2019 Lightning Karaoke
+Podcasts Deliver Better SRE Podcast (2020): Deliver Better Podcast
+Publications Guest Blog Post (2020): SLIs, SLOs - What are Those
+Published Book (2020): Hands on High Performance With Go</description>
     </item>
     
     <item>
