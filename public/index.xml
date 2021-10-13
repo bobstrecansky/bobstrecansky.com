@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Sat, 25 Apr 2020 04:31:48 +0000</lastBuildDate>
-    
-	<atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 02 May 2020 00:32:34 +0000</lastBuildDate><atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern Wordpress</title>
       <link>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</link>
@@ -53,8 +49,8 @@ Akamai Edge Presentation #2 (2019): When 7 Seconds Per Page isn&amp;rsquo;t Fast
 Grafanacon Presentation (2019): Grafanacon 2019 RED Metrics Lightning Talk
 SRECon Lightning Karaoke Talk (2019): SRECON 2019 Lightning Karaoke
 Podcasts Deliver Better SRE Podcast (2020): Deliver Better Podcast
-Publications Guest Blog Post (2020): SLIs, SLOs - What are Those
-Published Book (2020): Hands on High Performance With Go</description>
+Publications OpenTelemetry PHP User Feedback Document (2021): OpenTelemetry — Garnering User Feedback for a Better Product
+Guest Blog Post (2020): SLIs, SLOs - What are Those?</description>
     </item>
     
     <item>

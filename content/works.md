@@ -20,7 +20,9 @@ Deliver Better SRE Podcast (2020): [Deliver Better Podcast](https://anchor.fm/de
 
 ### Publications
 
-Guest Blog Post (2020): [SLIs, SLOs - What are Those](https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those)
+OpenTelemetry PHP User Feedback Document (2021): [OpenTelemetry — Garnering User Feedback for a Better Product](https://medium.com/opentelemetry/opentelemetry-garnering-user-feedback-for-a-better-product-650b4433e805)
+
+Guest Blog Post (2020): [SLIs, SLOs - What are Those?](https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those)
 
 Published Book (2020): [Hands on High Performance With Go](https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D)
   
