@@ -44,7 +44,7 @@ enableEmoji     = true
 
     [languages.en.params.logo]
       logoText = "Bob Strecansky"
-      logoHomeLink = "/"
+      logoHomeLink = "https://bobstrecansky.com/"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -53,17 +53,17 @@ enableEmoji     = true
   [[menu.main]]
     identifier = "food"
     name       = "🍲 food"
-    url        = "/food"
+    url        = "https://bobstrecansky.com/food/"
 
   [[menu.main]]
     identifier = "tech"
     name       = "👨‍💻 tech"
-    url        = "/tech"
+    url        = "https:///bobstrecansky.com/tech/"
 
   [[menu.main]]
     identifier = "works"
     name       = "👷 works"
-    url        = "/works"
+    url        = "https://bobstrecansky.com/works/"
 
   # Social icons
   [[params.social]]

@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Staff Engineer @Mailchimp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2020</copyright>
-    
-	<atom:link href="https://bobstrecansky.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>2020</copyright><atom:link href="https://bobstrecansky.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
