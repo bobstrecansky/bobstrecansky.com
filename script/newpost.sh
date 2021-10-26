@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo "Fetching all branches"
 git fetch --all
-git reset --hard origin/master
+
+echo "Resetting to origin/main"
+git reset --hard origin/main
+
+echo "Restarting Varnish"
 service varnish restart
