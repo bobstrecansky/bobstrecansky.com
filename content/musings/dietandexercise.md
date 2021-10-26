@@ -49,8 +49,7 @@ them, the better off our body is at naturally suppressing the pain.
 * Don’t do strenuous exercise when your body is yelling at you Don’t be a baby - get off the couch and go do something!
 
 #### Ergonomics
-* Sleep in a good bed.  We invested in [Sleep Number](https://www.sleepnumber.com/) bed, and I think it's worth its 
-* weight in gold.
+* Sleep in a good bed.  We invested in [Sleep Number](https://www.sleepnumber.com/) bed, and I think it's worth its weight in gold.
 * Sit in a good chair at work, with good posture.  I got a [Herman Miller Embody](https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs/) at an awesome discount from work, but I don't think it needs to be that fancy.
 * Keep your computer and monitors elevated above eye level to avoid strain.
 * I've experimented with a standing desk, but I find it annoying for long periods of time.  I probably just need to keep the habit up.
