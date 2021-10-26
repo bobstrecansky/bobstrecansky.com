@@ -60,8 +60,7 @@ I love it now.
 * Try and get restful sleep!  I aim for 8 hours daily.  This is difficult with a young child.
 * Try and follow the same sleep pattern if possible.  I usually aim for 11PM EST to 7AM EST, but this can often be shifted based on social norms.
 * Attempt to not use screens for roughly a half an hour to an hour before bed.  This can be very difficult.
-* Keep your electronics out of your bedroom (I charge my cell phone in my master bathroom so that it doesn't 
-* interrupt me while I'm asleep, except for when getting paged during an oncall shift if needed.)
+* Keep your electronics out of your bedroom (I charge my cell phone in my master bathroom so that it doesn't interrupt me while I'm asleep, except for when getting paged during an oncall shift if needed.)
 
 #### Recovery
 * Foam rolling - Roll out your problem areas.  Lay on the foam roller in whatever problem area that ails you.  Find the spot where it really hurts, and lay on it for 1 minute.  It'll hurt incredibly bad during that time, but overall it helps immensely.
