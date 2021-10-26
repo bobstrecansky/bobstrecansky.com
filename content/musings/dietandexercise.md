@@ -68,5 +68,5 @@ I love it now.
 * Chiropractic - seeing a chiropractor at a regular cadence has helped my wellbeing immensely.
 * Graston technique - Graston technique has helped a lot of sore muscles recover quickly (mostly for tennis elbow!)
 * Cryotherapy - I've found cryotherapy to be unbelievably helpful
-* Massages - I believe massages would be helpful for me if I had them at a given cadence, but I haven't invested the time or mooney into making it a normal practice for me.
-* Hot tub - Hot tubs can be a very good relax mechanism!
+* Massages - I believe massages would be helpful for me if I had them at a given cadence, but I haven't invested the time or money into making it a normal practice for me.
+* Hot tub - Hot tubs can be a very good relaxation mechanism!
