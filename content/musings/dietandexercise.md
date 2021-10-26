@@ -46,21 +46,21 @@ them, the better off our body is at naturally suppressing the pain.
 #### Fitness
 * Try to get at least 45 minutes of exercise daily. This can be anything from walking, to stretching, to tennis.
 * Lots of stretching!  Stretch whenever you have a free moment. 
-* Don’t do strenuous exercise when your body is yelling at you Don’t be a baby - get off the couch and go do something!
+* Don’t do strenuous exercise when your body is yelling at you 
+* Don’t be a baby - get off the couch and go do something!
 
 #### Ergonomics
 * Sleep in a good bed.  We invested in [Sleep Number](https://www.sleepnumber.com/) bed, and I think it's worth its weight in gold.
 * Sit in a good chair at work, with good posture.  I got a [Herman Miller Embody](https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs/) at an awesome discount from work, but I don't think it needs to be that fancy.
 * Keep your computer and monitors elevated above eye level to avoid strain.
 * I've experimented with a standing desk, but I find it annoying for long periods of time.  I probably just need to keep the habit up.
-* I've been experimenting with an [Advantage Kinesis Keyboard](https://kinesis-ergo.com/shop/advantage2/) over the pandemic.  It took forever to get used to, but 
-I love it now.
+* I've been experimenting with an [Advantage Kinesis Keyboard](https://kinesis-ergo.com/shop/advantage2/) over the pandemic.  It took forever to get used to, but I love it now.
 
 #### Sleep
 * Try and get restful sleep!  I aim for 8 hours daily.  This is difficult with a young child.
 * Try and follow the same sleep pattern if possible.  I usually aim for 11PM EST to 7AM EST, but this can often be shifted based on social norms.
 * Attempt to not use screens for roughly a half an hour to an hour before bed.  This can be very difficult.
-* Keep your electronics out of your bedroom (I charge my cell phone in my master bathroom so that it doesn't interrupt me while I'm asleep, except for when getting paged during an oncall shift if needed.)
+* Keep your electronics out of your bedroom (I charge my cell phone in my master bathroom so that it doesn't interrupt me while I'm asleep, except for when getting paged during an oncall shift if needed).
 
 #### Recovery
 * Foam rolling - Roll out your problem areas.  Lay on the foam roller in whatever problem area that ails you.  Find the spot where it really hurts, and lay on it for 1 minute.  It'll hurt incredibly bad during that time, but overall it helps immensely.
