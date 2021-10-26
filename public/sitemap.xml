@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bobstrecansky.com/musings/2021/10/26/diet-and-exercise/</loc>
+    <lastmod>2021-10-26T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bobstrecansky.com/musings/</loc>
+    <lastmod>2021-10-26T16:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bobstrecansky.com/</loc>
+    <lastmod>2021-10-26T16:30:00+00:00</lastmod>
+  </url><url>
     <loc>https://bobstrecansky.com/tags/blog/</loc>
     <lastmod>2020-05-02T00:32:34+00:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2020-05-02T00:32:34+00:00</lastmod>
   </url><url>
     <loc>https://bobstrecansky.com/tags/php/</loc>
-    <lastmod>2020-05-02T00:32:34+00:00</lastmod>
-  </url><url>
-    <loc>https://bobstrecansky.com/</loc>
     <lastmod>2020-05-02T00:32:34+00:00</lastmod>
   </url><url>
     <loc>https://bobstrecansky.com/tags/</loc>

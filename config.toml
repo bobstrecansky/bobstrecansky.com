@@ -32,14 +32,15 @@ enableEmoji     = true
 
 [permalinks]
   tech = "/tech/:year/:month/:day/:title/"    
-  food = "/food/:year/:month/:day/:title/"    
+  food = "/food/:year/:month/:day/:title/"
+  musings = "/musings/:year/:month/:day/:title/"
 
 [languages]
   [languages.en]
     title = "Staff Engineer @Mailchimp"
     homeSubtitle = "Experience with Web Performance, Reliability, and Security"
     keywords = "Performance"
-    copyright = "2020"
+    copyright = "2021"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -64,6 +65,11 @@ enableEmoji     = true
     identifier = "works"
     name       = "👷 works"
     url        = "https://bobstrecansky.com/works/"
+
+  [[menu.main]]
+    identifier = "musings"
+    name       = "😎 musings"
+    url        = "https://bobstrecansky.com/musings/"
 
   # Social icons
   [[params.social]]
