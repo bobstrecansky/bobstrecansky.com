@@ -9,8 +9,6 @@ tags:
   - cured meat
 ---
 
-{{< image src="/img/2020-04-22-Caulipower-Pizza-With-Prosciutto.jpg" alt="Caulipower Pizza With Prosciutto" position="center" style="border-radius: 8px;width:400px;height:400px;" >}}
-
 My wife is a huge pizza fan. I’ve been trying to not eat like a jerk, so we’ve found that cauliflower pizza can often be a good middle ground for both of us. It’s healthy, it tastes 75% as good as pizza, and it helps me to avoid the [dad bod](https://www.urbandictionary.com/define.php?term=Dad%20bod).
 
 We tried out [Caulipower’s Veggie Pizza](https://eatcaulipower.com/products/veggie-pizza) tonight.  We added prosciutto, just to take the vegetarian edge off.

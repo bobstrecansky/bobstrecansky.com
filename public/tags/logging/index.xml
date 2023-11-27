@@ -5,17 +5,16 @@
     <link>https://bobstrecansky.com/tags/logging/</link>
     <description>Recent content in logging on Staff Engineer @Mailchimp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>2021</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 02:22:08 +0000</lastBuildDate><atom:link href="https://bobstrecansky.com/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>2023</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 02:22:08 +0000</lastBuildDate>
+    <atom:link href="https://bobstrecansky.com/tags/logging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nginx Logging</title>
       <link>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</guid>
       <description>I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps Elasticsearch. It&amp;rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:</description>
     </item>
-    
   </channel>
 </rss>
