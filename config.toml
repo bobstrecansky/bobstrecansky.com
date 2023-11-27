@@ -38,11 +38,7 @@ enableEmoji     = true
 [languages]
   [languages.en]
     title = "Staff Engineer @Mailchimp"
-    homeSubtitle = "Experience with Web Performance, Reliability, and Security"
-    keywords = "Performance"
-    copyright = "2021"
-    readOtherPosts = "Read other posts"
-
+    copyright = "2023"
     [languages.en.params.logo]
       logoText = "Bob Strecansky"
       logoHomeLink = "https://bobstrecansky.com/"

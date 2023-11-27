@@ -5,18 +5,17 @@
     <link>https://bobstrecansky.com/tags/blog/</link>
     <description>Recent content in blog on Staff Engineer @Mailchimp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>2021</copyright>
-    <lastBuildDate>Sat, 02 May 2020 00:32:34 +0000</lastBuildDate><atom:link href="https://bobstrecansky.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>2023</copyright>
+    <lastBuildDate>Sat, 02 May 2020 00:32:34 +0000</lastBuildDate>
+    <atom:link href="https://bobstrecansky.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern Wordpress</title>
       <link>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</guid>
       <description>A friend of mine works as a chiropractor and asked me if he could help maintain his company website. Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship. He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out. It was a simple wordpress site after all! :)
 Modern wordpress is much different then I remember it being the last time I worked with it.</description>
     </item>
-    
   </channel>
 </rss>

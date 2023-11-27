@@ -5,53 +5,45 @@
     <link>https://bobstrecansky.com/</link>
     <description>Recent content on Staff Engineer @Mailchimp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>2021</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 16:30:00 +0000</lastBuildDate><atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>2023</copyright>
+    <lastBuildDate>Tue, 26 Oct 2021 16:30:00 +0000</lastBuildDate>
+    <atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diet and Exercise</title>
       <link>https://bobstrecansky.com/musings/2021/10/26/diet-and-exercise/</link>
       <pubDate>Tue, 26 Oct 2021 16:30:00 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/musings/2021/10/26/diet-and-exercise/</guid>
-      <description>Bob’s Injury Avoidance / General Health Plan Diet  Try and eat a lot of foods from the Anti-inflammatory diet. These include:  Olive oil Berries Green vegetables Legumes Nuts (the Costco fancy mixed nuts are my favorite) Fiber (I’ve considered taking a fiber supplement, but I believe I get more than enough fiber in my diet from the foods I eat.)   Avoid simple sugars and processed foods when possible.</description>
+      <description>Bob’s Injury Avoidance / General Health Plan Diet Try and eat a lot of foods from the Anti-inflammatory diet. These include Olive oil Berries Green vegetables Legumes Nuts (the Costco fancy mixed nuts are my favorite) Fiber (I’ve considered taking a fiber supplement, but I believe I get more than enough fiber in my diet from the foods I eat.) Avoid simple sugars and processed foods when possible. I’m interested in the impact of Nightshade vegetable avoidance.</description>
     </item>
-    
     <item>
       <title>Modern Wordpress</title>
       <link>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</guid>
       <description>A friend of mine works as a chiropractor and asked me if he could help maintain his company website. Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship. He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out. It was a simple wordpress site after all! :)
 Modern wordpress is much different then I remember it being the last time I worked with it.</description>
     </item>
-    
     <item>
       <title>Microtime</title>
       <link>https://bobstrecansky.com/tech/2020/04/28/microtime/</link>
       <pubDate>Tue, 28 Apr 2020 03:32:30 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/04/28/microtime/</guid>
       <description>I spent a lot of time tracking down a bug in some PHP microtime code today. When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that. It is also critical to remember that microtime() returns an int, and microtime(true) returns a float
 php &amp;gt; echo(microtime()); 0.97812200 1588045939 php &amp;gt; echo(microtime(true)); 1588045944.5691 php &amp;gt; php also introduced hrtime() in PHP 7.3, which is a better option for a monotonic clock.</description>
     </item>
-    
     <item>
       <title>SLIs, SLOs - What are Those?</title>
       <link>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</link>
       <pubDate>Sat, 25 Apr 2020 22:41:50 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</guid>
       <description>A friend of mine Ravi Lachhman asked me to write a blog post for his company&amp;rsquo;s new blog - deliver-better.com. I told him I&amp;rsquo;d be happy to, as SLIs and SLOs are one of my favorite topics to discuss at work. You can see this blog post here
 This blog post was fun to write, as I have been a consumer of alertmanager, but I had actually never written an alertmanager service definition from scratch before.</description>
     </item>
-    
     <item>
       <title>Works</title>
       <link>https://bobstrecansky.com/works/</link>
       <pubDate>Sat, 25 Apr 2020 04:31:48 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/works/</guid>
       <description>Conference Talks Akamai Edge Presentation #1 (2019): Mailchimp to the Edge
 Akamai Edge Presentation #2 (2019): When 7 Seconds Per Page isn&amp;rsquo;t Fast Enough
@@ -61,44 +53,35 @@ Podcasts Deliver Better SRE Podcast (2020): Deliver Better Podcast
 Publications OpenTelemetry PHP User Feedback Document (2021): OpenTelemetry — Garnering User Feedback for a Better Product
 Guest Blog Post (2020): SLIs, SLOs - What are Those?</description>
     </item>
-    
     <item>
       <title>Sous Vide Fillet with Sesame Asparagus and Roasted Thyme Potatoes</title>
       <link>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</guid>
       <description>My wife likes steak. It&amp;rsquo;s been her favorite meal since she was little. I thought I should treat her to her favorite dinner on a Friday night (It&amp;rsquo;s been fun to cook a little bit more during our self-quarantine). I&amp;rsquo;ve been attempting to perfect my sous vide fillet, and I&amp;rsquo;m getting pretty proud of it. The secret ingredient to a fillet (in my wife&amp;rsquo;s eyes) is Dale&amp;rsquo;s Seasonsing, which is proclaimed on their website to be the &amp;ldquo;#1 Marinade in the Nation!</description>
     </item>
-    
     <item>
       <title>Spicy Chicken Sausage</title>
       <link>https://bobstrecansky.com/food/2020/04/24/spicy-chicken-sausage/</link>
       <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/food/2020/04/24/spicy-chicken-sausage/</guid>
       <description>Tonight I concocted a spicy andouille chicken sausage over white rice and steamed, raw honey glazed carrots. This worked as a combination better than I thought it would. The spicy from the chicken sausage, the slight sweet from the raw honey, and the buttery smooth rice worked nicely together. I&amp;rsquo;ll certainly be making this again in the future!</description>
     </item>
-    
     <item>
       <title>Caulipower Pizza</title>
       <link>https://bobstrecansky.com/food/2020/04/23/caulipower-pizza/</link>
       <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/food/2020/04/23/caulipower-pizza/</guid>
       <description>My wife is a huge pizza fan. I’ve been trying to not eat like a jerk, so we’ve found that cauliflower pizza can often be a good middle ground for both of us. It’s healthy, it tastes 75% as good as pizza, and it helps me to avoid the dad bod.
 We tried out Caulipower’s Veggie Pizza tonight. We added prosciutto, just to take the vegetarian edge off.
-The verdict?</description>
+The verdict? Pretty decent tasting.</description>
     </item>
-    
     <item>
       <title>Nginx Logging</title>
       <link>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      
       <guid>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</guid>
       <description>I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps Elasticsearch. It&amp;rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:</description>
     </item>
-    
   </channel>
 </rss>
