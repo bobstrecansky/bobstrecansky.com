@@ -10,7 +10,7 @@ Akamai Edge Presentation #1 (2019): [Mailchimp to the Edge](https://www.slidesha
 
 Akamai Edge Presentation #2 (2019): [When 7 Seconds Per Page isn't Fast Enough](https://www.slideshare.net/BobStrecansky/when-7-seconds-per-page-isnt-fast-enough-developer-focus-on-akamai-tooling)
 
-Grafanacon Presentation (2019): [Grafanacon 2019 RED Metrics Lightning Talk](pdf/GrafanaCon-2019-RED-Metrics-Lightning-Talk.pdf)
+Grafanacon Presentation (2019): [Grafanacon 2019 RED Metrics Lightning Talk](https://www.slideshare.net/slideshow/grafanacon-red-metrics-lightning-talks-pptx/272734400)
 
 SRECon Lightning Karaoke Talk (2019): [SRECON 2019 Lightning Karaoke](https://youtu.be/bQ62qI9IPP8?t=3762)
 
@@ -25,7 +25,7 @@ OpenTelemetry PHP User Feedback Document (2021): [OpenTelemetry — Garnering Us
 Guest Blog Post (2020): [SLIs, SLOs - What are Those?](https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those)
 
 Published Book (2020): [Hands on High Performance With Go](https://www.amazon.com/Hands-High-Performance-performance-applications-ebook/dp/B08576P94D)
-  
+
 Linode Article (2017): [How to Deploy Microservices With Docker](https://www.linode.com/docs/applications/containers/deploying-microservices-with-docker/)
 
 ### Testimonials

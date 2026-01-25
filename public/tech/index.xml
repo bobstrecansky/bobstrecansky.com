@@ -2,43 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Staff Engineer @Mailchimp</title>
-    <link>https://bobstrecansky.com/tech/</link>
+    <link>http://localhost:43471/tech/</link>
     <description>Recent content in Tech on Staff Engineer @Mailchimp</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <copyright>2023</copyright>
     <lastBuildDate>Sat, 02 May 2020 00:32:34 +0000</lastBuildDate>
-    <atom:link href="https://bobstrecansky.com/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43471/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modern Wordpress</title>
-      <link>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</link>
+      <link>http://localhost:43471/tech/2020/05/02/modern-wordpress/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</guid>
-      <description>A friend of mine works as a chiropractor and asked me if he could help maintain his company website. Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship. He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out. It was a simple wordpress site after all! :)
-Modern wordpress is much different then I remember it being the last time I worked with it.</description>
+      <guid>http://localhost:43471/tech/2020/05/02/modern-wordpress/</guid>
+      <description>&lt;p&gt;A friend of mine works as a chiropractor and asked me if he could help maintain his company website.  Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship.  He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out.  It was a simple wordpress site after all! :)&lt;/p&gt;&#xA;&lt;p&gt;Modern wordpress is much different then I remember it being the last time I worked with it.  Lots of really great plugins, a wonderful content management system, even a mobile editing app!  If my blog wasn&amp;rsquo;t written in hugo, I&amp;rsquo;d consider using wordpress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microtime</title>
-      <link>https://bobstrecansky.com/tech/2020/04/28/microtime/</link>
+      <link>http://localhost:43471/tech/2020/04/28/microtime/</link>
       <pubDate>Tue, 28 Apr 2020 03:32:30 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/28/microtime/</guid>
-      <description>I spent a lot of time tracking down a bug in some PHP microtime code today. When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that. It is also critical to remember that microtime() returns an int, and microtime(true) returns a float
-php &amp;gt; echo(microtime()); 0.97812200 1588045939 php &amp;gt; echo(microtime(true)); 1588045944.5691 php &amp;gt; php also introduced hrtime() in PHP 7.3, which is a better option for a monotonic clock.</description>
+      <guid>http://localhost:43471/tech/2020/04/28/microtime/</guid>
+      <description>&lt;p&gt;I spent a lot of time tracking down a bug in some PHP microtime code today.  When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that.  It is also critical to remember that &lt;code&gt;microtime()&lt;/code&gt; returns an int, and &lt;code&gt;microtime(true)&lt;/code&gt; returns a float&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;php &amp;gt; echo(microtime());&#xA;0.97812200 1588045939&#xA;php &amp;gt; echo(microtime(true));&#xA;1588045944.5691&#xA;php &amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;php also introduced &lt;code&gt;hrtime()&lt;/code&gt; in PHP 7.3, which is a better option for a monotonic clock.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SLIs, SLOs - What are Those?</title>
-      <link>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</link>
+      <link>http://localhost:43471/tech/2020/04/25/slis-slos-what-are-those/</link>
       <pubDate>Sat, 25 Apr 2020 22:41:50 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</guid>
-      <description>A friend of mine Ravi Lachhman asked me to write a blog post for his company&amp;rsquo;s new blog - deliver-better.com. I told him I&amp;rsquo;d be happy to, as SLIs and SLOs are one of my favorite topics to discuss at work. You can see this blog post here
-This blog post was fun to write, as I have been a consumer of alertmanager, but I had actually never written an alertmanager service definition from scratch before.</description>
+      <guid>http://localhost:43471/tech/2020/04/25/slis-slos-what-are-those/</guid>
+      <description>&lt;p&gt;A friend of mine &lt;a href=&#34;https://twitter.com/ravilach&#34;&gt;Ravi Lachhman&lt;/a&gt; asked me to write a blog post for his company&amp;rsquo;s new blog - &lt;a href=&#34;https://www.deliver-better.com/&#34;&gt;deliver-better.com&lt;/a&gt;.  I told him I&amp;rsquo;d be happy to, as SLIs and SLOs are one of my favorite topics to discuss at work.&#xA;You can see this blog post &lt;a href=&#34;https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This blog post was fun to write, as I have been a consumer of alertmanager, but I had actually never written an alertmanager service definition from scratch before.  I also learned about Grafana&amp;rsquo;s new &lt;a href=&#34;https://grafana.com/docs/grafana/latest/administration/provisioning/&#34;&gt;Provisioning Definitions&lt;/a&gt;&#xA;SLIs and SLOs add a ton of business value - I&amp;rsquo;ve seen them shine light on services and processes that were previously unmonitored.  Used in the correct way, they can help propel your business objctives forward!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nginx Logging</title>
-      <link>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</link>
+      <link>http://localhost:43471/tech/2020/04/23/nginx-logging/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</guid>
-      <description>I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps Elasticsearch. It&amp;rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:</description>
+      <guid>http://localhost:43471/tech/2020/04/23/nginx-logging/</guid>
+      <description>&lt;p&gt;I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps &lt;a href=&#34;https://www.elastic.co/elasticsearch/&#34;&gt;Elasticsearch&lt;/a&gt;.  It&amp;rsquo;s also really nice to be able to read and grok logs quickly with &lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt;.  I decided that this was easy enough to add in my logging.  In my nginx.conf (typically stored at &lt;code&gt;/etc/nginx/nginx.conf&lt;/code&gt; in most linux distributions, you just need to change the default log location to be something similar to this:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

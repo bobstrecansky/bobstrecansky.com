@@ -1,0 +1,20 @@
+{
+  "name": "Staff Engineer @Mailchimp",
+  "short_name": "Staff Engineer @Mailchimp",
+  "start_url": "http://localhost:43471/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

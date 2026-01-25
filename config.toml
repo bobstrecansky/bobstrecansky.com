@@ -3,8 +3,16 @@ title = "Bob Strecansky"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-googleAnalytics = "140001660"
+#googleAnalytics = "140001660"
 pluralizeListTitles = false
+
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+baseName = "site"
+PlainText = true
+
+[outputs]
+home = ["HTML", "RSS", "WebAppManifest"]
 
 [params]
   dateform        = "Jan 2, 2006"
