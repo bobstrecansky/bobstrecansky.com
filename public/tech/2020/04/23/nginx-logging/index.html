@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=43471&amp;path=livereload" data-no-instant defer></script>
         <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps Elasticsearch. It&amp;rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:" />
+<meta name="description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I&rsquo;m not sure were I&rsquo;d like to eventually put them (perhaps Elasticsearch. It&rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:
+" />
 <meta name="keywords" content="homepage, blog, nginx, logging, jq" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="https://bobstrecansky.com/tech/2020/04/23/nginx-logging/" />
+<link rel="canonical" href="http://localhost:43471/tech/2020/04/23/nginx-logging/" />
 
 
     <title>
@@ -35,16 +36,19 @@
     <meta name="msapplication-TileColor" content="">
 
 
-<meta itemprop="name" content="Nginx Logging">
-<meta itemprop="description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I&rsquo;m not sure were I&rsquo;d like to eventually put them (perhaps Elasticsearch. It&rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:"><meta itemprop="datePublished" content="2020-04-23T02:22:08+00:00" />
-<meta itemprop="dateModified" content="2020-04-23T02:22:08+00:00" />
-<meta itemprop="wordCount" content="160"><meta itemprop="image" content="https://bobstrecansky.com"/>
-<meta itemprop="keywords" content="nginx,logging,jq," />
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://bobstrecansky.com"/>
 
-<meta name="twitter:title" content="Nginx Logging"/>
-<meta name="twitter:description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I&rsquo;m not sure were I&rsquo;d like to eventually put them (perhaps Elasticsearch. It&rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:"/>
+  <meta itemprop="name" content="Nginx Logging">
+  <meta itemprop="description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I’m not sure were I’d like to eventually put them (perhaps Elasticsearch. It’s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:">
+  <meta itemprop="datePublished" content="2020-04-23T02:22:08+00:00">
+  <meta itemprop="dateModified" content="2020-04-23T02:22:08+00:00">
+  <meta itemprop="wordCount" content="160">
+  <meta itemprop="image" content="http://localhost:43471/">
+  <meta itemprop="keywords" content="Nginx,Logging,Jq">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:43471/">
+  <meta name="twitter:title" content="Nginx Logging">
+  <meta name="twitter:description" content="I wanted to be able to see my NGINX logs for this blog in JSON format, because I’m not sure were I’d like to eventually put them (perhaps Elasticsearch. It’s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:">
 
 
 
@@ -62,7 +66,6 @@
 
 
 
-    
 
 
     </head>
@@ -93,7 +96,7 @@
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="/food/">🍲 food</a></li><li><a href="https:///bobstrecansky.com/tech/">👨‍💻 tech</a></li><li><a href="/works/">👷 works</a></li><li><a href="/musings/">😎 musings</a></li>
+    <ul class="menu__inner"><li><a href="https://bobstrecansky.com/food/">🍲 food</a></li><li><a href="https:///bobstrecansky.com/tech/">👨‍💻 tech</a></li><li><a href="https://bobstrecansky.com/works/">👷 works</a></li><li><a href="https://bobstrecansky.com/musings/">😎 musings</a></li>
     </ul>
 </nav>
 
@@ -119,7 +122,7 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="https://bobstrecansky.com/tech/2020/04/23/nginx-logging/">Nginx Logging</a></h2>
+            <h2 class="post-title"><a href="http://localhost:43471/tech/2020/04/23/nginx-logging/">Nginx Logging</a></h2>
 
             
             
@@ -152,9 +155,9 @@ access_log /var/log/nginx/access.log json_log;
     <p>
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
 
-        <span class="tag"><a href="https://bobstrecansky.com/tags/nginx/">nginx</a></span>
-        <span class="tag"><a href="https://bobstrecansky.com/tags/logging/">logging</a></span>
-        <span class="tag"><a href="https://bobstrecansky.com/tags/jq/">jq</a></span>
+        <span class="tag"><a href="http://localhost:43471/tags/nginx/">nginx</a></span>
+        <span class="tag"><a href="http://localhost:43471/tags/logging/">logging</a></span>
+        <span class="tag"><a href="http://localhost:43471/tags/jq/">jq</a></span>
         
     </p>
 
@@ -177,7 +180,7 @@ access_log /var/log/nginx/access.log json_log;
 
 
 
-<script type="text/javascript" src="/bundle.min.0931a358499291afca6f741478e9fc9fa973a9fbd7aeb3390f3b10463966dc8195daf98a0e33685a1fbfb9d7578631c3f31fc8e558eaf6e2c30c4c3e14df4931.js" integrity="sha512-CTGjWEmSka/Kb3QUeOn8n6lzqfvXrrM5DzsQRjlm3IGV2vmKDjNoWh&#43;/uddXhjHD8x/I5Vjq9uLDDEw&#43;FN9JMQ=="></script>
+<script type="text/javascript" src="/bundle.min.ad54ad97364f77ede35def9096b162bb1f0b3973aa50b080f5e82fa147f6882e2a7200d7535adbf9b51bebf939f1c1ca9bbe6be87530092aca720eac4a226fda.js" integrity="sha512-rVStlzZPd&#43;3jXe&#43;QlrFiux8LOXOqULCA9egvoUf2iC4qcgDXU1rb&#43;bUb6/k58cHKm75r6HUwCSrKcg6sSiJv2g=="></script>
 
 
 

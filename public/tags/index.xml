@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Staff Engineer @Mailchimp</title>
-    <link>https://bobstrecansky.com/tags/</link>
+    <link>http://localhost:43471/tags/</link>
     <description>Recent content in Tags on Staff Engineer @Mailchimp</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <copyright>2023</copyright>
     <lastBuildDate>Sat, 02 May 2020 00:32:34 +0000</lastBuildDate>
-    <atom:link href="https://bobstrecansky.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43471/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://bobstrecansky.com/tags/blog/</link>
+      <title>Blog</title>
+      <link>http://localhost:43471/tags/blog/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/blog/</guid>
+      <guid>http://localhost:43471/tags/blog/</guid>
       <description></description>
     </item>
     <item>
-      <title>php</title>
-      <link>https://bobstrecansky.com/tags/php/</link>
+      <title>Php</title>
+      <link>http://localhost:43471/tags/php/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/php/</guid>
+      <guid>http://localhost:43471/tags/php/</guid>
       <description></description>
     </item>
     <item>
-      <title>wordpress</title>
-      <link>https://bobstrecansky.com/tags/wordpress/</link>
+      <title>Wordpress</title>
+      <link>http://localhost:43471/tags/wordpress/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/wordpress/</guid>
+      <guid>http://localhost:43471/tags/wordpress/</guid>
       <description></description>
     </item>
     <item>
-      <title>asparagus</title>
-      <link>https://bobstrecansky.com/tags/asparagus/</link>
+      <title>Asparagus</title>
+      <link>http://localhost:43471/tags/asparagus/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/asparagus/</guid>
+      <guid>http://localhost:43471/tags/asparagus/</guid>
       <description></description>
     </item>
     <item>
-      <title>fillet</title>
-      <link>https://bobstrecansky.com/tags/fillet/</link>
+      <title>Fillet</title>
+      <link>http://localhost:43471/tags/fillet/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/fillet/</guid>
+      <guid>http://localhost:43471/tags/fillet/</guid>
       <description></description>
     </item>
     <item>
-      <title>potatoes</title>
-      <link>https://bobstrecansky.com/tags/potatoes/</link>
+      <title>Potatoes</title>
+      <link>http://localhost:43471/tags/potatoes/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/potatoes/</guid>
+      <guid>http://localhost:43471/tags/potatoes/</guid>
       <description></description>
     </item>
     <item>
-      <title>sous vide</title>
-      <link>https://bobstrecansky.com/tags/sous-vide/</link>
+      <title>Sous Vide</title>
+      <link>http://localhost:43471/tags/sous-vide/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/sous-vide/</guid>
+      <guid>http://localhost:43471/tags/sous-vide/</guid>
       <description></description>
     </item>
     <item>
-      <title>thyme</title>
-      <link>https://bobstrecansky.com/tags/thyme/</link>
+      <title>Thyme</title>
+      <link>http://localhost:43471/tags/thyme/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/thyme/</guid>
+      <guid>http://localhost:43471/tags/thyme/</guid>
       <description></description>
     </item>
     <item>
-      <title>carrots - rice</title>
-      <link>https://bobstrecansky.com/tags/carrots-rice/</link>
+      <title>Carrots - Rice</title>
+      <link>http://localhost:43471/tags/carrots---rice/</link>
       <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/carrots-rice/</guid>
+      <guid>http://localhost:43471/tags/carrots---rice/</guid>
       <description></description>
     </item>
     <item>
-      <title>sausage</title>
-      <link>https://bobstrecansky.com/tags/sausage/</link>
+      <title>Sausage</title>
+      <link>http://localhost:43471/tags/sausage/</link>
       <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/sausage/</guid>
+      <guid>http://localhost:43471/tags/sausage/</guid>
       <description></description>
     </item>
     <item>
-      <title>cauliflower</title>
-      <link>https://bobstrecansky.com/tags/cauliflower/</link>
+      <title>Cauliflower</title>
+      <link>http://localhost:43471/tags/cauliflower/</link>
       <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/cauliflower/</guid>
+      <guid>http://localhost:43471/tags/cauliflower/</guid>
       <description></description>
     </item>
     <item>
-      <title>cured meat</title>
-      <link>https://bobstrecansky.com/tags/cured-meat/</link>
+      <title>Cured Meat</title>
+      <link>http://localhost:43471/tags/cured-meat/</link>
       <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/cured-meat/</guid>
+      <guid>http://localhost:43471/tags/cured-meat/</guid>
       <description></description>
     </item>
     <item>
-      <title>pizza</title>
-      <link>https://bobstrecansky.com/tags/pizza/</link>
+      <title>Pizza</title>
+      <link>http://localhost:43471/tags/pizza/</link>
       <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/pizza/</guid>
+      <guid>http://localhost:43471/tags/pizza/</guid>
       <description></description>
     </item>
     <item>
-      <title>jq</title>
-      <link>https://bobstrecansky.com/tags/jq/</link>
+      <title>Jq</title>
+      <link>http://localhost:43471/tags/jq/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/jq/</guid>
+      <guid>http://localhost:43471/tags/jq/</guid>
       <description></description>
     </item>
     <item>
-      <title>logging</title>
-      <link>https://bobstrecansky.com/tags/logging/</link>
+      <title>Logging</title>
+      <link>http://localhost:43471/tags/logging/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/logging/</guid>
+      <guid>http://localhost:43471/tags/logging/</guid>
       <description></description>
     </item>
     <item>
-      <title>nginx</title>
-      <link>https://bobstrecansky.com/tags/nginx/</link>
+      <title>Nginx</title>
+      <link>http://localhost:43471/tags/nginx/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tags/nginx/</guid>
+      <guid>http://localhost:43471/tags/nginx/</guid>
       <description></description>
     </item>
   </channel>

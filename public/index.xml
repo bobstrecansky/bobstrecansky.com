@@ -2,86 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Staff Engineer @Mailchimp</title>
-    <link>https://bobstrecansky.com/</link>
+    <link>http://localhost:43471/</link>
     <description>Recent content on Staff Engineer @Mailchimp</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <copyright>2023</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 16:30:00 +0000</lastBuildDate>
-    <atom:link href="https://bobstrecansky.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 16:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:43471/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diet and Exercise</title>
-      <link>https://bobstrecansky.com/musings/2021/10/26/diet-and-exercise/</link>
-      <pubDate>Tue, 26 Oct 2021 16:30:00 +0000</pubDate>
-      <guid>https://bobstrecansky.com/musings/2021/10/26/diet-and-exercise/</guid>
-      <description>Bob’s Injury Avoidance / General Health Plan Diet Try and eat a lot of foods from the Anti-inflammatory diet. These include Olive oil Berries Green vegetables Legumes Nuts (the Costco fancy mixed nuts are my favorite) Fiber (I’ve considered taking a fiber supplement, but I believe I get more than enough fiber in my diet from the foods I eat.) Avoid simple sugars and processed foods when possible. I’m interested in the impact of Nightshade vegetable avoidance.</description>
+      <link>http://localhost:43471/musings/2025/05/01/diet-and-exercise/</link>
+      <pubDate>Thu, 01 May 2025 16:30:00 +0000</pubDate>
+      <guid>http://localhost:43471/musings/2025/05/01/diet-and-exercise/</guid>
+      <description>&lt;h3 id=&#34;bobs-injury-avoidance--general-health-plan&#34;&gt;Bob’s Injury Avoidance / General Health Plan&lt;/h3&gt;&#xA;&lt;h4 id=&#34;diet&#34;&gt;Diet&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try and eat a lot of foods from the Anti-inflammatory diet. These include&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Olive oil&lt;/li&gt;&#xA;&lt;li&gt;Berries&lt;/li&gt;&#xA;&lt;li&gt;Green vegetables&lt;/li&gt;&#xA;&lt;li&gt;Legumes&lt;/li&gt;&#xA;&lt;li&gt;Nuts (the Costco fancy mixed nuts are my favorite)&lt;/li&gt;&#xA;&lt;li&gt;Fiber (I’ve considered taking a fiber supplement, but I believe I get more than enough fiber in my diet from the foods I&#xA;eat.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;I’m interested in the impact of Nightshade vegetable avoidance. I love tomatoes and peppers, so I think that may be something that’d be difficult for me.&lt;/li&gt;&#xA;&lt;li&gt;Avoid simple sugars and processed foods when possible.&lt;/li&gt;&#xA;&lt;li&gt;Avoid seed oils.&lt;/li&gt;&#xA;&lt;li&gt;Avoid processed foods.&lt;/li&gt;&#xA;&lt;li&gt;Drink 1 gallon of water a day.  This has made a measurable difference for me.&lt;/li&gt;&#xA;&lt;li&gt;Attempt to only drink the following things:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Water&lt;/li&gt;&#xA;&lt;li&gt;Coffee&lt;/li&gt;&#xA;&lt;li&gt;Tea (Black, Green, Herbal)&lt;/li&gt;&#xA;&lt;li&gt;Alcohol in moderation&lt;/li&gt;&#xA;&lt;li&gt;Sugar free sports drinks in moderation during intense exercise&lt;/li&gt;&#xA;&lt;li&gt;BCAA powder during intense exercise&lt;/li&gt;&#xA;&lt;li&gt;Sugar free energy drinks in moderation if exhausted. I often question how much these help me vs. hurt me&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Focus mostly on vegetables and lean meats (I have a weakness for red meat, but I’m attempting to cut back on it constantly)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;medicines--vitamins&#34;&gt;Medicines / Vitamins&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Avoid NSAIDs unless absolutely necessary. This is subjective, but I feel the more we can avoid them, the better off our body is at naturally suppressing the pain&lt;/li&gt;&#xA;&lt;li&gt;Keep a constant regimen of vitamins. Current vitamins that I take daily:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multivitamin&lt;/li&gt;&#xA;&lt;li&gt;Green Tea Extract&lt;/li&gt;&#xA;&lt;li&gt;B12&lt;/li&gt;&#xA;&lt;li&gt;C&lt;/li&gt;&#xA;&lt;li&gt;D&lt;/li&gt;&#xA;&lt;li&gt;Zinc&lt;/li&gt;&#xA;&lt;li&gt;Fish Oil&lt;/li&gt;&#xA;&lt;li&gt;COQ10&lt;/li&gt;&#xA;&lt;li&gt;Creatine HCL&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.macuhealth.com/product/vision-edge-pro/&#34;&gt;Vision Edge Pro&lt;/a&gt; - recommended by my eye doctor.  Thought it would be snake oil but was very pleasantly surprised.&lt;/li&gt;&#xA;&lt;li&gt;Ginger Tumeric&lt;/li&gt;&#xA;&lt;li&gt;Magnesium glycinate&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Don’t take any recreational drugs (never have been interested in them)&lt;/li&gt;&#xA;&lt;li&gt;Attempt to limit alcohol consumption (this can often be socially difficult)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;fitness&#34;&gt;Fitness&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try to get at least 45 minutes of exercise daily. This can be anything from walking, to stretching, to tennis.&lt;/li&gt;&#xA;&lt;li&gt;Lots of stretching!  Stretch whenever you have a free moment&lt;/li&gt;&#xA;&lt;li&gt;Don’t do strenuous exercise when your body is yelling at you&lt;/li&gt;&#xA;&lt;li&gt;Don’t be a baby - get off the couch and go do something!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;ergonomics&#34;&gt;Ergonomics&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sleep in a good bed.  We invested in &lt;a href=&#34;https://www.sleepnumber.com/&#34;&gt;Sleep Number&lt;/a&gt; bed, and I think it&amp;rsquo;s worth its weight in gold.&lt;/li&gt;&#xA;&lt;li&gt;Sit in a good chair at work, with good posture.  I got a &lt;a href=&#34;https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs/&#34;&gt;Herman Miller Embody&lt;/a&gt; at an awesome discount from work, but I don&amp;rsquo;t think it needs to be that fancy.&lt;/li&gt;&#xA;&lt;li&gt;Keep your computer and monitors elevated above eye level to avoid strain.&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;ve experimented with a standing desk, but I find it annoying for long periods of time.  I probably just need to keep the habit up.&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;ve been experimenting with an &lt;a href=&#34;https://kinesis-ergo.com/shop/advantage2/&#34;&gt;Advantage Kinesis Keyboard&lt;/a&gt; over the pandemic.  It took forever to get used to, but I love it now.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;sleep&#34;&gt;Sleep&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Try and get restful sleep!  I aim for 8 hours daily.  This is difficult with young children.&lt;/li&gt;&#xA;&lt;li&gt;Try and follow the same sleep pattern if possible.  I usually aim for 11PM EST to 7AM EST, but this can often be shifted based on social norms.&lt;/li&gt;&#xA;&lt;li&gt;Attempt to not use screens for roughly a half an hour to an hour before bed.  This can be very difficult.&lt;/li&gt;&#xA;&lt;li&gt;Keep your electronics out of your bedroom (I charge my cell phone in my bathroom so that it doesn&amp;rsquo;t interrupt me while I&amp;rsquo;m asleep, except for when getting paged during an oncall shift if needed).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;recovery&#34;&gt;Recovery&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Foam rolling - Roll out your problem areas.  Lay on the foam roller in whatever problem area that ails you.  Find the spot where it really hurts, and lay on it for 1 minute.  It&amp;rsquo;ll hurt incredibly bad during that time, but overall it helps immensely.&lt;/li&gt;&#xA;&lt;li&gt;Massage gun - The massage gun is wonderful for bumping out knots and other things.  I use mine roughly 3-5 times a week.&lt;/li&gt;&#xA;&lt;li&gt;Chiropractic - seeing a chiropractor at a regular cadence has helped my wellbeing immensely.&lt;/li&gt;&#xA;&lt;li&gt;Graston technique - Graston technique has helped a lot of sore muscles recover quickly (mostly for tennis elbow!).&lt;/li&gt;&#xA;&lt;li&gt;Cryotherapy - I&amp;rsquo;ve found cryotherapy to be unbelievably helpful.&lt;/li&gt;&#xA;&lt;li&gt;Massages - I believe massages would be helpful for me if I had them at a given cadence, but I haven&amp;rsquo;t invested the time or money into making it a normal practice for me.&lt;/li&gt;&#xA;&lt;li&gt;Hot tub - Hot tubs can be a very good relaxation mechanism.&lt;/li&gt;&#xA;&lt;li&gt;TENS machine - super helpful in loosening very tight muscles.&lt;/li&gt;&#xA;&lt;li&gt;Theracup - Cupping helps relieve pressure in specific areas that get tight on my shoulder.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Modern Wordpress</title>
-      <link>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</link>
+      <link>http://localhost:43471/tech/2020/05/02/modern-wordpress/</link>
       <pubDate>Sat, 02 May 2020 00:32:34 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/05/02/modern-wordpress/</guid>
-      <description>A friend of mine works as a chiropractor and asked me if he could help maintain his company website. Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship. He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out. It was a simple wordpress site after all! :)
-Modern wordpress is much different then I remember it being the last time I worked with it.</description>
+      <guid>http://localhost:43471/tech/2020/05/02/modern-wordpress/</guid>
+      <description>&lt;p&gt;A friend of mine works as a chiropractor and asked me if he could help maintain his company website.  Normally I would decline this kind of engagement, as I find it&amp;rsquo;s difficult to mix business with friendship.  He is a close friend and a tennis doubles partner, so I thought I&amp;rsquo;d help him out.  It was a simple wordpress site after all! :)&lt;/p&gt;&#xA;&lt;p&gt;Modern wordpress is much different then I remember it being the last time I worked with it.  Lots of really great plugins, a wonderful content management system, even a mobile editing app!  If my blog wasn&amp;rsquo;t written in hugo, I&amp;rsquo;d consider using wordpress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microtime</title>
-      <link>https://bobstrecansky.com/tech/2020/04/28/microtime/</link>
+      <link>http://localhost:43471/tech/2020/04/28/microtime/</link>
       <pubDate>Tue, 28 Apr 2020 03:32:30 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/28/microtime/</guid>
-      <description>I spent a lot of time tracking down a bug in some PHP microtime code today. When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that. It is also critical to remember that microtime() returns an int, and microtime(true) returns a float
-php &amp;gt; echo(microtime()); 0.97812200 1588045939 php &amp;gt; echo(microtime(true)); 1588045944.5691 php &amp;gt; php also introduced hrtime() in PHP 7.3, which is a better option for a monotonic clock.</description>
+      <guid>http://localhost:43471/tech/2020/04/28/microtime/</guid>
+      <description>&lt;p&gt;I spent a lot of time tracking down a bug in some PHP microtime code today.  When reading microtime, one would think that it is time with microsecond precision. It often has more precision than that.  It is also critical to remember that &lt;code&gt;microtime()&lt;/code&gt; returns an int, and &lt;code&gt;microtime(true)&lt;/code&gt; returns a float&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;php &amp;gt; echo(microtime());&#xA;0.97812200 1588045939&#xA;php &amp;gt; echo(microtime(true));&#xA;1588045944.5691&#xA;php &amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;php also introduced &lt;code&gt;hrtime()&lt;/code&gt; in PHP 7.3, which is a better option for a monotonic clock.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SLIs, SLOs - What are Those?</title>
-      <link>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</link>
+      <link>http://localhost:43471/tech/2020/04/25/slis-slos-what-are-those/</link>
       <pubDate>Sat, 25 Apr 2020 22:41:50 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/25/slis-slos-what-are-those/</guid>
-      <description>A friend of mine Ravi Lachhman asked me to write a blog post for his company&amp;rsquo;s new blog - deliver-better.com. I told him I&amp;rsquo;d be happy to, as SLIs and SLOs are one of my favorite topics to discuss at work. You can see this blog post here
-This blog post was fun to write, as I have been a consumer of alertmanager, but I had actually never written an alertmanager service definition from scratch before.</description>
+      <guid>http://localhost:43471/tech/2020/04/25/slis-slos-what-are-those/</guid>
+      <description>&lt;p&gt;A friend of mine &lt;a href=&#34;https://twitter.com/ravilach&#34;&gt;Ravi Lachhman&lt;/a&gt; asked me to write a blog post for his company&amp;rsquo;s new blog - &lt;a href=&#34;https://www.deliver-better.com/&#34;&gt;deliver-better.com&lt;/a&gt;.  I told him I&amp;rsquo;d be happy to, as SLIs and SLOs are one of my favorite topics to discuss at work.&#xA;You can see this blog post &lt;a href=&#34;https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This blog post was fun to write, as I have been a consumer of alertmanager, but I had actually never written an alertmanager service definition from scratch before.  I also learned about Grafana&amp;rsquo;s new &lt;a href=&#34;https://grafana.com/docs/grafana/latest/administration/provisioning/&#34;&gt;Provisioning Definitions&lt;/a&gt;&#xA;SLIs and SLOs add a ton of business value - I&amp;rsquo;ve seen them shine light on services and processes that were previously unmonitored.  Used in the correct way, they can help propel your business objctives forward!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Works</title>
-      <link>https://bobstrecansky.com/works/</link>
+      <link>http://localhost:43471/works/</link>
       <pubDate>Sat, 25 Apr 2020 04:31:48 +0000</pubDate>
-      <guid>https://bobstrecansky.com/works/</guid>
-      <description>Conference Talks Akamai Edge Presentation #1 (2019): Mailchimp to the Edge
-Akamai Edge Presentation #2 (2019): When 7 Seconds Per Page isn&amp;rsquo;t Fast Enough
-Grafanacon Presentation (2019): Grafanacon 2019 RED Metrics Lightning Talk
-SRECon Lightning Karaoke Talk (2019): SRECON 2019 Lightning Karaoke
-Podcasts Deliver Better SRE Podcast (2020): Deliver Better Podcast
-Publications OpenTelemetry PHP User Feedback Document (2021): OpenTelemetry — Garnering User Feedback for a Better Product
-Guest Blog Post (2020): SLIs, SLOs - What are Those?</description>
+      <guid>http://localhost:43471/works/</guid>
+      <description>&lt;h3 id=&#34;conference-talks&#34;&gt;Conference Talks&lt;/h3&gt;&#xA;&lt;p&gt;Akamai Edge Presentation #1 (2019): &lt;a href=&#34;https://www.slideshare.net/BobStrecansky/mailchimp-to-the-edge-establishing-akamai-best-practices-at-mailchimp&#34;&gt;Mailchimp to the Edge&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Akamai Edge Presentation #2 (2019): &lt;a href=&#34;https://www.slideshare.net/BobStrecansky/when-7-seconds-per-page-isnt-fast-enough-developer-focus-on-akamai-tooling&#34;&gt;When 7 Seconds Per Page isn&amp;rsquo;t Fast Enough&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Grafanacon Presentation (2019): &lt;a href=&#34;https://www.slideshare.net/slideshow/grafanacon-red-metrics-lightning-talks-pptx/272734400&#34;&gt;Grafanacon 2019 RED Metrics Lightning Talk&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;SRECon Lightning Karaoke Talk (2019): &lt;a href=&#34;https://youtu.be/bQ62qI9IPP8?t=3762&#34;&gt;SRECON 2019 Lightning Karaoke&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;podcasts&#34;&gt;Podcasts&lt;/h3&gt;&#xA;&lt;p&gt;Deliver Better SRE Podcast (2020): &lt;a href=&#34;https://anchor.fm/deliver-better/episodes/Site-Reliability-Engineering---SREs-of-Past--Present--and-Future-efi282/a-a2g555b&#34;&gt;Deliver Better Podcast&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;&#xA;&lt;p&gt;OpenTelemetry PHP User Feedback Document (2021): &lt;a href=&#34;https://medium.com/opentelemetry/opentelemetry-garnering-user-feedback-for-a-better-product-650b4433e805&#34;&gt;OpenTelemetry — Garnering User Feedback for a Better Product&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Guest Blog Post (2020): &lt;a href=&#34;https://www.deliver-better.com/post/introduction-to-site-reliability-engineering-slis-slos-what-are-those&#34;&gt;SLIs, SLOs - What are Those?&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sous Vide Fillet with Sesame Asparagus and Roasted Thyme Potatoes</title>
-      <link>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</link>
+      <link>http://localhost:43471/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</link>
       <pubDate>Sat, 25 Apr 2020 04:03:55 +0000</pubDate>
-      <guid>https://bobstrecansky.com/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</guid>
-      <description>My wife likes steak. It&amp;rsquo;s been her favorite meal since she was little. I thought I should treat her to her favorite dinner on a Friday night (It&amp;rsquo;s been fun to cook a little bit more during our self-quarantine). I&amp;rsquo;ve been attempting to perfect my sous vide fillet, and I&amp;rsquo;m getting pretty proud of it. The secret ingredient to a fillet (in my wife&amp;rsquo;s eyes) is Dale&amp;rsquo;s Seasonsing, which is proclaimed on their website to be the &amp;ldquo;#1 Marinade in the Nation!</description>
+      <guid>http://localhost:43471/food/2020/04/25/sous-vide-fillet-with-sesame-asparagus-and-roasted-thyme-potatoes/</guid>
+      <description>&lt;p&gt;My wife likes steak.  It&amp;rsquo;s been her favorite meal since she was little.  I thought I should treat her to her favorite dinner on a Friday night (It&amp;rsquo;s been fun to cook a little bit more during our self-quarantine).  I&amp;rsquo;ve been attempting to perfect my sous vide fillet, and I&amp;rsquo;m getting pretty proud of it.  The secret ingredient to a fillet (in my wife&amp;rsquo;s eyes) is &lt;a href=&#34;https://www.dalesseasoning.com/&#34;&gt;Dale&amp;rsquo;s Seasonsing&lt;/a&gt;, which is proclaimed on their website to be the &amp;ldquo;#1 Marinade in the Nation!&amp;rdquo;.  I think my wife would agree.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spicy Chicken Sausage</title>
-      <link>https://bobstrecansky.com/food/2020/04/24/spicy-chicken-sausage/</link>
+      <link>http://localhost:43471/food/2020/04/24/spicy-chicken-sausage/</link>
       <pubDate>Fri, 24 Apr 2020 01:47:23 +0000</pubDate>
-      <guid>https://bobstrecansky.com/food/2020/04/24/spicy-chicken-sausage/</guid>
-      <description>Tonight I concocted a spicy andouille chicken sausage over white rice and steamed, raw honey glazed carrots. This worked as a combination better than I thought it would. The spicy from the chicken sausage, the slight sweet from the raw honey, and the buttery smooth rice worked nicely together. I&amp;rsquo;ll certainly be making this again in the future!</description>
+      <guid>http://localhost:43471/food/2020/04/24/spicy-chicken-sausage/</guid>
+      <description>&lt;p&gt;Tonight I concocted a spicy andouille chicken sausage over white rice and steamed, raw honey glazed carrots.  This worked as a combination better than I thought it would.  The spicy from the chicken sausage, the slight sweet from the raw honey, and the buttery smooth rice worked nicely together.  I&amp;rsquo;ll certainly be making this again in the future!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Caulipower Pizza</title>
-      <link>https://bobstrecansky.com/food/2020/04/23/caulipower-pizza/</link>
+      <link>http://localhost:43471/food/2020/04/23/caulipower-pizza/</link>
       <pubDate>Thu, 23 Apr 2020 02:57:52 +0000</pubDate>
-      <guid>https://bobstrecansky.com/food/2020/04/23/caulipower-pizza/</guid>
-      <description>My wife is a huge pizza fan. I’ve been trying to not eat like a jerk, so we’ve found that cauliflower pizza can often be a good middle ground for both of us. It’s healthy, it tastes 75% as good as pizza, and it helps me to avoid the dad bod.
-We tried out Caulipower’s Veggie Pizza tonight. We added prosciutto, just to take the vegetarian edge off.
-The verdict? Pretty decent tasting.</description>
+      <guid>http://localhost:43471/food/2020/04/23/caulipower-pizza/</guid>
+      <description>&lt;p&gt;My wife is a huge pizza fan. I’ve been trying to not eat like a jerk, so we’ve found that cauliflower pizza can often be a good middle ground for both of us. It’s healthy, it tastes 75% as good as pizza, and it helps me to avoid the &lt;a href=&#34;https://www.urbandictionary.com/define.php?term=Dad%20bod&#34;&gt;dad bod&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We tried out &lt;a href=&#34;https://eatcaulipower.com/products/veggie-pizza&#34;&gt;Caulipower’s Veggie Pizza&lt;/a&gt; tonight.  We added prosciutto, just to take the vegetarian edge off.&lt;/p&gt;&#xA;&lt;p&gt;The verdict? Pretty decent tasting. You’d never 100% mistake it for pizza, but it’s a decent low calorie, low carb dinner (that’ll leave you hungry 30 minutes after consuming it).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nginx Logging</title>
-      <link>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</link>
+      <link>http://localhost:43471/tech/2020/04/23/nginx-logging/</link>
       <pubDate>Thu, 23 Apr 2020 02:22:08 +0000</pubDate>
-      <guid>https://bobstrecansky.com/tech/2020/04/23/nginx-logging/</guid>
-      <description>I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps Elasticsearch. It&amp;rsquo;s also really nice to be able to read and grok logs quickly with jq. I decided that this was easy enough to add in my logging. In my nginx.conf (typically stored at /etc/nginx/nginx.conf in most linux distributions, you just need to change the default log location to be something similar to this:</description>
+      <guid>http://localhost:43471/tech/2020/04/23/nginx-logging/</guid>
+      <description>&lt;p&gt;I wanted to be able to see my NGINX logs for this blog in JSON format, because I&amp;rsquo;m not sure were I&amp;rsquo;d like to eventually put them (perhaps &lt;a href=&#34;https://www.elastic.co/elasticsearch/&#34;&gt;Elasticsearch&lt;/a&gt;.  It&amp;rsquo;s also really nice to be able to read and grok logs quickly with &lt;a href=&#34;https://stedolan.github.io/jq/&#34;&gt;jq&lt;/a&gt;.  I decided that this was easy enough to add in my logging.  In my nginx.conf (typically stored at &lt;code&gt;/etc/nginx/nginx.conf&lt;/code&gt; in most linux distributions, you just need to change the default log location to be something similar to this:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
